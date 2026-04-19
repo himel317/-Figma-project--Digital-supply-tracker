@@ -25,7 +25,7 @@ It focuses on managing and tracking supply efficiently with a modern interface.
 ---
 
 ## 👨‍💻 Author
-- Md. Abul Hasnat Himel
+- Md. Abul Hasnat Himel (me)
 - Sanzida Islm Nupur
 - Mithila Yeasmin 
 - Md.Hasibul Hasan Rafi 
