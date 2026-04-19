@@ -7,7 +7,7 @@ It focuses on managing and tracking supply efficiently with a modern interface.
 ---
 
 🎨 Figma Design Link
-👉 [Click here to view the design]([https://www.figma.com/design/WXnD3Sx7XqBdcuoVYg6C5V/Digital-Supply-Tracker?node-id=0-1&t=0Mxu5CpikpQhjqUf-1](https://www.figma.com/design/WXwD3Sx7XqBdcuOVYg6C5V/Digital-Supply-Tracker?node-id=0-1&p=f&t=gJHCFOyAtYQzFCOQ-0))
+👉 [Click here to view the design](https://www.figma.com/design/WXwD3Sx7XqBdcuOVYg6C5V/Digital-Supply-Tracker?node-id=0-1&p=f&t=gJHCFOyAtYQzFCOQ-0))
 
 ---
 
